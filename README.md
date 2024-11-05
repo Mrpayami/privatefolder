@@ -2,7 +2,7 @@
 #### make private folder and remove all file in private folder with Windows+R run mode and type mkfp for make folder and rmpf for remove data in private folder in netwinos
 ### https://netwinos.com/
 <div align="center">
-	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/148132034/380497740-c8fe8a00-9704-4134-9a46-6105d851d060.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241027T124723Z&X-Amz-Expires=300&X-Amz-Signature=4c5508ee1d545b0777f8602ed2f3f7f0e84fc2b8a214a8163088c55abc6c1179&X-Amz-SignedHeaders=host">
+	<img src="https://fs24.fex.net/preview/5223969528/0x0">
 </div>
 
 ### mkpf.bat
